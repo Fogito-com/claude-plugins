@@ -1,0 +1,20 @@
+{
+  "name": "fogito",
+  "owner": {
+    "name": "Fogito",
+    "url": "https://fogito.com"
+  },
+  "metadata": {
+    "description": "Official Fogito plugins for Claude."
+  },
+  "plugins": [
+    {
+      "name": "fogito",
+      "source": "./plugins/fogito",
+      "description": "Fogito — connect your Fogito account to Claude: tasks, projects, people, notes, Drive and other enabled services, with Confirm/Cancel cards for every change.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "homepage": "https://fogito.com"
+    }
+  ]
+}

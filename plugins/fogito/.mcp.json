@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fogito": {
+      "type": "http",
+      "url": "https://app.fogito.com/api/mcp/claude"
+    }
+  }
+}
